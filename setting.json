@@ -1,0 +1,44 @@
+{
+    "go.toolsManagement.autoUpdate": true,
+    "redhat.telemetry.enabled": true,
+    "workbench.preferredLightColorTheme": "Visual Studio Dark",
+    "window.autoDetectColorScheme": true,
+    "editor.tokenColorCustomizations": null,
+    "workbench.preferredDarkColorTheme": "Monokai Dimmed",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.mac": "/Users/jonathanjiang/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "workbench.colorCustomizations" : {
+        "terminal.background":"#131212",
+        "terminal.foreground":"#dddad6",
+        "terminal.ansiBlack":"#36e677",
+        "terminal.ansiBrightBlack":"#665C54",
+        "terminal.ansiBrightBlue":"#0D6678",
+        "terminal.ansiBrightCyan":"#8BA59B",
+        "terminal.ansiBrightGreen":"#41f500",
+        "terminal.ansiBrightMagenta":"#8F4673",
+        "terminal.ansiBrightRed":"#FB543F",
+        "terminal.ansiBrightWhite":"#FDF4C1",
+        "terminal.ansiBrightYellow":"#f9ae00",
+        "terminal.ansiBlue":"#00a1f9",
+        "terminal.ansiCyan":"#909493",
+        "terminal.ansiGreen":"#95C085",
+        "terminal.ansiMagenta":"#8F4673",
+        "terminal.ansiRed":"#FB543F",
+        "terminal.ansiWhite":"#021702",
+        "terminal.ansiYellow":"#ffc641",
+        "terminal.selectionBackground": "#e26cffcb",
+    },
+    "liveshare.accessibility.accessibilityFeaturesEnabled": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "sequencediagrams.diagram.style": "simple",
+    "sequencediagrams.preview.trigger": "onSave",
+    "editor.codeActionsOnSave": null,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "One Dark Pro Darker"
+}
